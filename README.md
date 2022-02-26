@@ -8,4 +8,5 @@ This repo contains all my notes in advance course.
 | --------  | -------- |
 | Read-Class-2    | [01-prep-end-tdd.md](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/01-prep-end-tdd.md) | 
 |Read-Class-3     |[02-prep-end-tdd.md](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/02-prep-end-tdd.md)  |
+|Read-Class-4     |[SQL vs NOSQL](https://github.com/Oubaida996/advanced-js-reading-notes/blob/sql-vs-nosql/sql-vs-nosql.md)  |
 
