@@ -10,4 +10,5 @@ This repo contains all my notes in advance course.
 |Read-Class-3     |[02-prep-end-tdd.md](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/02-prep-end-tdd.md)  |
 |Read-Class-4     |[SQL vs NOSQL](https://github.com/Oubaida996/advanced-js-reading-notes/blob/sql-vs-nosql/sql-vs-nosql.md)  |
 |Read-Class-5     |[Linked-List](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/linked-list.md)  |
+|Read-Class-6     |[Singleton](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/singleton-class-6.md)  |
 
