@@ -5,7 +5,8 @@
 
 
 ## When should you use JSON Web Tokens?  
-1-Authorization.
+1-Authorization.  
+
 2-Information Exchange.  
 
 
