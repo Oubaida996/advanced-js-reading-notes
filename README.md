@@ -12,5 +12,7 @@ This repo contains all my notes in advance course.
 |Read-Class-5     |[Linked-List](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/linked-list.md)  |
 |Read-Class-6     |[Singleton](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/singleton-class-6.md)  |
 |Read-Class-7     |[JWT](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-reading-07.md)  |
-|Read-Class-8     |[ACL AND RBAC](https://github.com/Oubaida996/advanced-js-reading-notes/blob/class-08/class-08-ACL.md)  |
+|Read-Class-9     |[Authorization/Authentication Review](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/review-authorization-and-authentication.md)  |  
+
+
 
