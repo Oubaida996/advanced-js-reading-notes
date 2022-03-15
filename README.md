@@ -15,6 +15,6 @@ This repo contains all my notes in advance course.
 |Read-Class-8     |[ALC/RBAC](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-08-ACL.md)  |  
 |Read-Class-9     |[Authorization/Authentication Review](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/review-authorization-and-authentication.md)  | 
 |Read-Class-10     |[Stack and Queue](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-10-stack-and-queue.md)  |  
-
+|Read-Class-11     |[Event Driven Applications](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-11-event-driven.md)  |  
 
 
