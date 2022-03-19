@@ -1,5 +1,5 @@
 # Event Driven Applications
-> ***is a logical pattern that we can choose to confine our programming within to avoid issues of complexity and collision. In this article we’re going to go over how Event-Driven Programming works and how we can make the best use of it in our Node.js projects.***
+> ***is a logical pattern that we can choose to confine our programming within to avoid issues of complexity and collision.***
 
 
 
