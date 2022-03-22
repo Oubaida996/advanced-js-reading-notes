@@ -17,5 +17,5 @@ This repo contains all my notes in advance course.
 |Read-Class-10     |[Stack and Queue](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-10-stack-and-queue.md)  |  
 |Read-Class-11     |[Event Driven Applications](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-11-event-driven.md)  |  
 |Read-Class-12     |[Socket.io](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-12-socket.io.md)  |  
-
+|Read-Class-13     |[Message-queue](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-13-message-queue.md)  |  
 
