@@ -1,15 +1,3 @@
-# Trees
-
-## In this tutorial, we’ll be covering Binary Trees, Binary Search Trees, and K-ary Trees. We will review some common terminology that is shared amongst all of the trees and then dive into specifics of the different types.
-
-## Common Terminology
-1. Node - A Tree node is a component which may contain it’s own values, and references to other nodes
-2. Root - The root is the node at the beginning of the tree
-3. K - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
-4. Left - A reference to one child node, in a binary tree
-5. Right - A reference to the other child node, in a binary tree
-6. Edge - The edge in a tree is the link between a parent and child node
-7. Leaf - A leaf is a node that does not have any children
-8. Height - The height of a tree is the number of edges from the root to the furthest leaf
+# tree
 
 
