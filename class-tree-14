@@ -13,7 +13,7 @@
 8. Height - The height of a tree is the number of edges from the root to the furthest leaf
 
 
-![sdvsvsd](https://cdn.guru99.com/images/1/020820_0600_BinarySearc1.png)
+
 
 ### Traversals
 > ***An important aspect of trees is how to traverse them. Traversing a tree allows us to search for a node, print out the contents of a tree, and much more! There are two categories of traversals when it comes to trees:***
