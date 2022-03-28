@@ -18,5 +18,6 @@ This repo contains all my notes in advance course.
 |Read-Class-11     |[Event Driven Applications](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-11-event-driven.md)  |  
 |Read-Class-12     |[Socket.io](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-12-socket.io.md)  |  
 |Read-Class-13     |[Message-queue](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-13-message-queue.md)  |  
-|Read-Class     |[Tree](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-tree-14.md)  |   
+|Read-Class-14     |[Tree](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-tree-14.md)  |   
+|Read-Class-16     |[AWS](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-16-AWS.md)  |   
 
