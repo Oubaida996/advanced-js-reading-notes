@@ -20,4 +20,5 @@ This repo contains all my notes in advance course.
 |Read-Class-13     |[Message-queue](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-13-message-queue.md)  |  
 |Read-Class-14     |[Tree](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-tree-14.md)  |   
 |Read-Class-16     |[AWS](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-16-AWS.md)  |   
+|Read-Class-17     |[AWS-S3-and-Lambda](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-17-AWS-S3-and-Lambda.md)  |
 
