@@ -22,5 +22,6 @@ This repo contains all my notes in advance course.
 |Read-Class-16     |[AWS](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-16-AWS.md)  |   
 |Read-Class-17     |[AWS-S3-and-Lambda](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-17-AWS-S3-and-Lambda.md)  |
 |Read-Class-18     |[AWS-API-Dynamo-and-Lambda](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class%3D18-AWS-API-Dynamo-and-Lambda.md)  |
+|Read-Class-26     |[React-Intro](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-26-intro-react.md)  |
 
 
