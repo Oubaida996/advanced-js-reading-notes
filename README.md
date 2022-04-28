@@ -24,5 +24,6 @@ This repo contains all my notes in advance course.
 |Read-Class-18     |[AWS-API-Dynamo-and-Lambda](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class%3D18-AWS-API-Dynamo-and-Lambda.md)  |
 |Read-Class-26     |[React-Intro](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-26-intro-react.md)  |
 |Read-Class-27     |[Hooks](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-27-hooks.md)  |
+|Read-Class-28     |[Hooks-useEffect](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-28-useEffect.md)  |
 
 
