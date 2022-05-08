@@ -25,5 +25,6 @@ This repo contains all my notes in advance course.
 |Read-Class-26     |[React-Intro](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-26-intro-react.md)  |
 |Read-Class-27     |[Hooks](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-27-hooks.md)  |
 |Read-Class-28     |[Hooks-useEffect](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-28-useEffect.md)  |
+|Read-Class-29     |[Hooks-useReducers](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-29-useReducers.md)  |
 
 
