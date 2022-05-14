@@ -27,5 +27,6 @@ This repo contains all my notes in advance course.
 |Read-Class-28     |[Hooks-useEffect](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-28-useEffect.md)  |
 |Read-Class-29     |[Hooks-useReducers](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-29-useReducers.md)  |
 |Read-Class-30     |[Hash Table](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-30-hashTable.md)  |
+|Read-Class-31     |[Hash Table](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-31-context-api-hook.md)  |
 
 
