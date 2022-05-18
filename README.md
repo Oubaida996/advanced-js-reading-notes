@@ -28,5 +28,5 @@ This repo contains all my notes in advance course.
 |Read-Class-29     |[Hooks-useReducers](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-29-useReducers.md)  |
 |Read-Class-30     |[Hash Table](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-30-hashTable.md)  |
 |Read-Class-31     |[Context Api Hook](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-31-context-api-hook.md)  |
-
+|Read-Class-33     |[Login And Auth](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-33-login-and-auth.md)  |
 
