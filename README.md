@@ -30,4 +30,6 @@ This repo contains all my notes in advance course.
 |Read-Class-31     |[Context Api Hook](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-31-context-api-hook.md)  |
 |Read-Class-33     |[Login And Auth](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-33-login-and-auth.md)  |
 |Read-Class-34     |[Api-integration](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-34-Api-integration.md)  |
+|Read-Class-35     |[Graphs](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-35-graphs.md)  |
+
 
