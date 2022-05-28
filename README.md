@@ -31,5 +31,6 @@ This repo contains all my notes in advance course.
 |Read-Class-33     |[Login And Auth](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-33-login-and-auth.md)  |
 |Read-Class-34     |[Api-integration](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-34-Api-integration.md)  |
 |Read-Class-35     |[Graphs](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-35-graphs.md)  |
+|Read-Class-36     |[Redux](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-36-redux.md)  |
 
 
