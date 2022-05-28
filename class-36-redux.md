@@ -23,5 +23,3 @@ Using Redux with any UI layer requires the same consistent set of steps:
 - Respond to UI inputs by dispatching Redux actions  
 
 The process of subscribing to the store, checking for updated data, and triggering a re-render can be made more generic and reusable. A UI binding library like React Redux handles the store interaction logic, so you don't have to write that code yourself.
-
- (Links to an external site.)bookmarks
