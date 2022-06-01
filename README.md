@@ -33,6 +33,7 @@ This repo contains all my notes in advance course.
 |Read-Class-35     |[Graphs](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-35-graphs.md)  |
 |Read-Class-36     |[Redux](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-36-redux.md)  |
 |Read-Class-37     |[Redux-Multi-Reducers](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-37-multi-reducers.md)  |
+|Read-Class-38     |[Redux-Asynchronous-Actions](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-38-Redux-Asynchronous-Actions.md)  |
 
 
 
