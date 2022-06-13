@@ -36,6 +36,7 @@ This repo contains all my notes in advance course.
 |Read-Class-38     |[Redux-Asynchronous-Actions](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-38-Redux-Asynchronous-Actions.md)  |
 |Read-Class-39     |[Redux-Tool-Kit](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-39-redux-tool-kit.md)  |
 |Read-Class-41     |[React-Native](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-41-react-native.md)  |
+|Read-Class-42     |[ACM-Ethics](https://github.com/Oubaida996/advanced-js-reading-notes/blob/main/class-42-ACM-Ethics.md)  |
 
 
 
